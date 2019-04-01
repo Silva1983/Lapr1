@@ -1,0 +1,8 @@
+# ignorar ficheiro config
+
+.idea/*
+build/*
+nbproject/*
+lapr.iml
+out/*
+/dist/

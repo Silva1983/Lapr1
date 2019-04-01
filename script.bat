@@ -1,0 +1,1 @@
+gnuplot -e "filename='%1'" Gnuplot.gp
